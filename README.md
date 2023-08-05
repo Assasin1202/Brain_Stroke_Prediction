@@ -4,9 +4,13 @@ In this project, we delve on how to do brain stroke prediction using a diverse r
 
 Key Features:
 🔍 Thorough data analysis and visualization
+
 🔧 Preprocessing techniques for optimal model performance
+
 ⚙️ Implementation of various ML algorithms: Decision Trees, Random Forest, SVM, Logistic Regression, and more
+
 📊 Model comparison and evaluation metrics
+
 📝 Detailed report providing insights and conclusions
 
 Join us on this data-driven exploration to enhance our understanding of brain stroke prediction and contribute to the realm of healthcare analytics. Let's make a positive impact together! 🌐"
