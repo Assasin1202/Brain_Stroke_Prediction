@@ -19,7 +19,7 @@ Our primary objective is to develop a robust predictive model for identifying po
 
 🌡️ Healthcare Impact: We recognize the significance of accurate brain stroke prediction in the realm of healthcare analytics. By contributing to the development of effective predictive models, we aim to make a positive impact on healthcare outcomes and patient well-being.
 
-Join Us:
+## Join Us:
 
 We invite you to join us on this data-driven exploration to enhance our understanding of brain stroke prediction.
 Together, we can contribute valuable insights to the field of healthcare analytics and help address the challenges posed by brain strokes.
