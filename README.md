@@ -1,11 +1,11 @@
-Brain Stroke Prediction - PRML Major Project
+# Brain Stroke Prediction - PRML Major Project
 
-Project Overview:
+## Project Overview:
 
 This major project, undertaken as part of the Pattern Recognition and Machine Learning (PRML) course, focuses on predicting brain strokes using advanced machine learning techniques.
 Our primary objective is to develop a robust predictive model for identifying potential brain stroke occurrences, a critical task with far-reaching implications in the field of healthcare.
 
-Project Highlights:
+## Project Highlights:
 
 📊 Thorough Data Analysis and Visualization: We begin our journey with a deep dive into data analysis and visualization. This phase involves understanding the dataset, uncovering hidden patterns, and gaining insights into the factors contributing to brain strokes.
 
